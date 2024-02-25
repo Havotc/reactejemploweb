@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reactejemploweb/static/css/main.f855e6bc.css",
-    "main.js": "/reactejemploweb/static/js/main.cfebda92.js",
+    "main.js": "/reactejemploweb/static/js/main.4ef339ef.js",
     "static/js/787.f6570a32.chunk.js": "/reactejemploweb/static/js/787.f6570a32.chunk.js",
     "static/media/logo.svg": "/reactejemploweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactejemploweb/index.html",
     "main.f855e6bc.css.map": "/reactejemploweb/static/css/main.f855e6bc.css.map",
-    "main.cfebda92.js.map": "/reactejemploweb/static/js/main.cfebda92.js.map",
+    "main.4ef339ef.js.map": "/reactejemploweb/static/js/main.4ef339ef.js.map",
     "787.f6570a32.chunk.js.map": "/reactejemploweb/static/js/787.f6570a32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cfebda92.js"
+    "static/js/main.4ef339ef.js"
   ]
 }
